@@ -1,4 +1,4 @@
-# WS2812B DRIVER FOR STM332F401CC
+# WS2812B DRIVER FOR STM32F401CC
 
 ![working](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2016/09/GIF3.gif?resize=480%2C270&quality=100&strip=all&ssl=1)
 
